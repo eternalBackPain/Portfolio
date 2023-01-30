@@ -1,3 +1,12 @@
+# Portfolio website using Nextra (markdown focused website including react components)
+
+Ideas to play around with:
+- have a ball that bounces around when you click it (the O in John)
+- have a three.js animation as a little logo
+- fox colour palette
+- keep it simple
+
+
 # Portfolio Starter Kit
 
 This portfolio is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/). It allows you to write Markdown and focus on the _content_ of your portfolio. This starter includes:
